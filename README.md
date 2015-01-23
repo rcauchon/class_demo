@@ -3,6 +3,6 @@ this wednesday test
 
 ======================
 Salut Pascal
-//bonjour
+bonjour
 #bon
  --------------------------
